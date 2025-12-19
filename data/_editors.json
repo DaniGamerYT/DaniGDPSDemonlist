@@ -3,18 +3,6 @@
         "role": "owner",
         "name": "Danigamer934",
         "link": "https://www.youtube.com/channel/UCKtpLdFyv93KfebU9jzrblA"
-    },
-    {
-        "role": "admin",
-        "name": "No One",
-        "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
-    },
-    {
-        "role": "trial",
-        "name": "Mulpan",
-        "link": "https://www.youtube.com/@mulpan/undefined"
-
-    },
     {
         "role": "dev",
         "name": "Prometheus",
