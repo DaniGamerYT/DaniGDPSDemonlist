@@ -1,15 +1,37 @@
 {
     "id": 14,
     "name": "Unnamed 0 Z",
-    "author": "DaniGamer934",
+    "author": "DaniGamer",
     "creators": [],
-    "verifier": "DaniGamer934",
+    "verifier": "DaniGamer",
     "verification": "https://www.youtube.com/watch?v=p0wA59O_Twk",
     "percentToQualify": "100",
     "password": "Free To Copy",
-      "records": [
-          {
+    "records": [
+        {
+            "user": "Pan",
+            "link": "https://www.youtube.com/watch?v=yAhZ4tx5_uY",
+            "percent": 100,
+            "hz": 999
+        },
+        {
+            "user": "DaniGamer",
+            "link": "https://www.youtube.com/watch?v=yAhZ4tx5_uY",
+            "percent": 100,
+            "hz": 999
+        },
+        {
+            "user": "Fynux",
+            "link": "https://www.youtube.com/watch?v=yAhZ4tx5_uY",
+            "percent": 100,
+            "hz": 999
 
-          }
-      ]
-  }
+        },
+        {
+            "user": "Springsito4k",
+            "link": "https://www.youtube.com/watch?v=yAhZ4tx5_uY",
+            "percent": 100,
+            "hz": 999        
+        }
+    ]
+}
