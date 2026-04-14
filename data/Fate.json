@@ -8,8 +8,23 @@
     "percentToQualify": "48",
     "password": "Free To Copy",
       "records": [
-          {
-
-          }
+        {
+            "user": "DaniGamer",
+            "link": "https://www.youtube.com/watch?v=yAhZ4tx5_uY",
+            "percent": 100,
+            "hz": 999
+        },
+        {
+            "user": "solisxx",
+            "link": "https://www.youtube.com/watch?v=yAhZ4tx5_uY",
+            "percent": 100,
+            "hz": 999
+        },
+        {
+            "user": "Sheiden",
+            "link": "https://www.youtube.com/watch?v=yAhZ4tx5_uY",
+            "percent": 100,
+            "hz": 999
+        }
       ]
   }
