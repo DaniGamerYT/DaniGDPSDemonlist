@@ -28,7 +28,7 @@ export function score(rank, percent, minPercent) {
     (-24.9975*Math.pow(rank-1, 0.4) + 200) *
         ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
     */
-    let score = ((31 - rank)) //remeber to change each time i add a level to the list
+    let score = ((32 - rank)) //remeber to change each time i add a level to the list
 
     score = Math.max(0, score);
 
